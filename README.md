@@ -5,4 +5,4 @@ Este repositorio contem dois prints mostrando como esse crud esta funcionando vi
 
 📌versões
 versao 1 (setembro 2024) CRUD simples com PHP procedural + POO sem estrutura MVC (base do projeto)
-versao 2 (futuro...) Refatoração com padrão MVC, organização em pastas e melhorias de segurança
+versao 2 (futuro...) Refatoração com padrão MVC e organização em pastas
