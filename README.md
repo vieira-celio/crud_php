@@ -1,3 +1,5 @@
+Desenvolvido por Célio Vieira na faculdade em 2024.
+
 Este repositorio contem dois prints mostrando como esse crud esta funcionando visualmente.
 
 [tela de cadasatro](prints/tela_cadastro.png).
